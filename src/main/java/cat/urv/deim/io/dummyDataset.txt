@@ -1,0 +1,17 @@
+Pel·lícula,Usuari,Valoració
+Kill bill,Nil,4.5
+Drogas en puertorico,Nil,4.0
+Barbie,Jowi,5
+Drogas en puertorico,Jowi,1
+Drogas en puertorico,JoanI,1
+Kill bill,JoanI,2
+Kill bill,Carlos,4
+Barbie,JoanI,4.5
+Barbie,Nil,1
+Drogas en puertorico,Carlos,5
+Misael,Carlos,4
+Fastanduris,Carlos,4
+
+
+
+

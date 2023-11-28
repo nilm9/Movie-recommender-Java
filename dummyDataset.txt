@@ -1,0 +1,15 @@
+Kill bill,Nil,4
+Kill bill,Joan,2
+Kill bill,Jowy,2
+Kill bill,Carlos,4
+Fast and furious,Carlos,5
+Fast and furious,Nil,4
+Fast and furious,Jowy,1
+Scarface,Jowy,1
+Scarface,Joan,1
+Scarface,Carlos,5
+Hola,Carlos,4
+Nemo,Jowy,5
+Perro,Joan,4
+Doraimon,Nil,5
+Doraimon,Joan,4

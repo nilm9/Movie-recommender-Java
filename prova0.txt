@@ -1,0 +1,12 @@
+Film1,User1,4
+Film1,User2,3
+Film1,User3,2
+Film2,User1,5
+Film2,User2,4
+Film2,User3,4
+Film3,User1,3
+Film3,User2,4
+Film3,User3,2
+Film4,User1,2
+Film4,User2,3
+Film4,User3,4
